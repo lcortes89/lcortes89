@@ -12,7 +12,7 @@
   🚧 Desarrolladora full stack junior <strong>en formación</strong> Bootcamp de Factoría F5<br>
   🚀Siempre me ha llamado la atención la tecnología e indago sobre ello<br>
   <h2>
-  HABILIDADES PERSONALES></h2>
+  HABILIDADES PERSONALE></h2>
   Soy dedicada, responsable, con buen trabajo en equipo y propositiva.<br>
   🏋️‍♀️Acerca de mis intereses generales me gusta el deporte, bailar, compartir en familia y cocinar.<br>
   😊
