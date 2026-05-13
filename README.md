@@ -8,13 +8,12 @@
   <h4>About me</h4>
 
   <p>
- 💻Tengo amplio conocimiento en help desk orientado a empresas.<br>
-  🚧 Desarrolladora full stack junior <strong>en formación</strong> Bootcamp de Factoría F5<br>
-  🚀Siempre me ha llamado la atención la tecnología e indago sobre ello<br>
-  <h2>
-  HABILIDADES PERSONALES</h2>
-  Soy dedicada, responsable, con buen trabajo en equipo y propositiva.<br>
-  🏋️‍♀️Acerca de mis intereses generales me gusta el deporte, bailar, compartir en familia y cocinar.<br>
+ 💻I have extensive experience in help desk solutions for businesses<br>
+  🚧 Junior Full Stack Developer in training at Factoría F5 Bootcamp<br>
+  🚀I've always been drawn to technology and I'm constantly exploring new avenues<br>
+  <h2>PERSONAL SKILLS</h2>
+  I'm dedicated, responsible, a good team player, and proactive<br>
+  🏋️‍♀️My general interests include sports, dancing, spending time with family, and cooking<br>
   😊
   </p>
 </div>
