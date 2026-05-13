@@ -13,7 +13,6 @@
   🚀I've always been drawn to technology and I'm constantly exploring new avenues<br>
   <h2>PERSONAL SKILLS</h2>
   I'm dedicated, responsible, a good team player, and proactive<br>
-  🏋️‍♀️My general interests include sports, dancing, spending time with family, and cooking<br>
-  😊
+  🏋️‍♀️My general interests include sports, dancing, spending time with family, and cooking<br>😊
   </p>
 </div>
